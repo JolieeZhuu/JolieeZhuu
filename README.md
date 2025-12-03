@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi!! Welcome to my repository :3
+I'm Jolie, a student studying Computer Science at the University of Toronto.
+
+I try finding passion in building fun projects (ranging from web applications to ML models). My current big project is [Art Log](https://github.com/JolieeZhuu/art-log).
 
 <!--
 **JolieeZhuu/JolieeZhuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
