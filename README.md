@@ -30,7 +30,7 @@ Check out a project I've been working on for 2 years: [Art Log](https://github.c
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## Contact
+## 📫 Contact
 joliezhu34@gmail.com :)
 
 <!--
