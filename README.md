@@ -3,8 +3,6 @@ I'm Jolie, a Computer Science student at the University of Toronto.
 
 I try finding passion in building fun projects (ranging from web applications to ML models). 
 
-Check out a project I've been working on for 2 years: [Art Log](https://github.com/JolieeZhuu/art-log)
-
 ## 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
